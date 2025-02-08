@@ -1,10 +1,10 @@
 # 💻
 
 <h1 id="cover-heading">
-  Open Publishing Space
+  Benoît Meunier
 </h1>
 
 > Create, Share and Collaborate
 
 [Explore](#my-open-publishing-space)
-[GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
+[@bmeunier on X](https://x.com/bmeunier)

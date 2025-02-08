@@ -44,13 +44,13 @@
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 
   <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap"
-    rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 
   <style>
     :root {
-      --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+      --base-font-family: "Open Sans", serif;
       --base-line-height: 1.4;
       --base-font-size: 18px;
 
@@ -175,7 +175,7 @@
       name: 'Benoît Meunier',
       // repo           : 'https://github.com/bmeunier/docs/',
       homepage: 'home.md',
-      // coverpage      : '_coverpage.md',
+      coverpage      : '_coverpage.md',
       loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
       loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
       mergeNavbar: false,
