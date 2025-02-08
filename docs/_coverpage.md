@@ -6,5 +6,4 @@
 
 > Create, Share and Collaborate
 
-[Explore](/#my-space)
 [@bmeunier on X](https://x.com/bmeunier)
