@@ -1,1 +1,2 @@
 - [Custom Covers vs. Tarps](custom-covers-vs-tarps/index.md "Custom Covers vs Tarps: What's the Ideal Winter Protection for Your RV in Canada?")
+- [Robotic Welding Flexible U-Layout Work Cell](optimizing-robotic-welding-ulayout/index.md)
