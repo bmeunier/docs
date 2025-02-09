@@ -1,1 +1,1 @@
-- [Houses vs Baches](houses-vs-baches.md "Housses sur mesure vs bâches : Quelle protection idéale pour votre VR en hiver canadien ?")
+- [Custom Covers vs. Tarps](custom-covers-vs-tarps/index.md "Custom Covers vs Tarps: What's the Ideal Winter Protection for Your RV in Canada?")
