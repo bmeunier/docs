@@ -5,7 +5,6 @@
   <meta charset="UTF-8">
   <title>Benoît Meunier</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Benoît Meunier">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-icon-60x60.png">
@@ -67,12 +66,12 @@
       --cover-max-width: 45em;
 
       --heading-h2-border-style: none;
-      --heading-h1-margin: 2rem 0rem 3rem 0rem;
-      --heading-h2-margin: 2rem 0rem 2rem 0rem;
-      --heading-h3-margin: 1.75rem 0rem 1.5rem 0rem;
-      --heading-h4-margin: 1.5rem 0rem 1.25rem 0rem;
-      --heading-h5-margin: 1.25rem 0rem 1rem 0rem;
-      --heading-h6-margin: 1rem 0rem .75rem 0rem;
+    
+      --heading-h1-margin: 2rem 0rem 2rem 0rem;
+      --heading-h2-margin: 1.75rem 0rem 1.5rem 0rem;
+      --heading-h3-margin: 1.5rem 0rem 1.25rem 0rem;
+      --heading-h4-margin: 1.25rem 0rem 1rem 0rem;
+      --heading-h5-margin: 1rem 0rem .75rem 0rem;
 
       --heading-h1-font-size: 2.25rem; /* More impact */
       --heading-h2-font-size: 1.85rem;
@@ -202,7 +201,6 @@
       logo: 'images/bm.svg =200x100',
       loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
       
-      
       // loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
       mergeNavbar: false,
       externalLinkTarget: standalone ? '_top' : (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
@@ -229,7 +227,7 @@
       //  depth: 3,
       //  namespace: 'docsify-open-publishing-starter-kit',
       //  hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-      //},
+      // },
 
       pagination: {
         previousText: 'PREV',
