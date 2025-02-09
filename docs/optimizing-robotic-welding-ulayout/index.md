@@ -6,7 +6,7 @@ The goal is to provide a starting point for discussion and improvements that can
 
 ## U-Layout Optimal & Flexible
 
-![](optimizing-robotic-welding-ulayout/cnc-welding-layout-image1.png)
+![](cnc-welding-layout-image1.png)
 
 The U-layout is a work cell design that arranges stations in a U-shape, allowing smooth part movement. Parts enter at one end, go through pre-processing, robotic welding, and post-processing, and exit at the other end.
 
