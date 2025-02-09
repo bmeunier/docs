@@ -44,7 +44,7 @@ The dedicated rework-fixing zone is at the far right of the U-shaped work cell, 
 
 ## U-Layout with Post-Processing
 
-![](cnc-welding-layout-with-prost-processing.png)
+![](cnc-welding-layout-with-post-processing.png)
 
 ### 👎 BAD • Welding Table/Machine on the Left Side
 
