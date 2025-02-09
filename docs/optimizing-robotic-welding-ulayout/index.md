@@ -16,6 +16,8 @@ The U-layout helps operators follow a standard design, which they can adapt for 
 
 ## U-Layout with No Pre- or Post-Processing
 
+![](cnc-welding-layout-no-pre-or-post-processing.png)
+
 Layouts that prioritize streamlined operations position the welding table and machine to avoid disrupting the main flow of parts, maximizing productivity. Handling defects are kept outside the U-shaped work area, ensuring uninterrupted operations. The overall layout minimizes backtracking and congestion.
 
 The layout follows a logical flow, with a clear path for parts to enter, be processed, and exit efficiently. Placing finished parts on the left side keeps them closer to the department's exit, reducing unnecessary movement.
@@ -23,6 +25,8 @@ The layout follows a logical flow, with a clear path for parts to enter, be proc
 Defect-handling tasks are outside the main work zone. By placing the welding table and machine outside the core area, more space is freed up for operations. This is ideal, ensuring uninterrupted operations within the U-shaped work area.
 
 ## U-Layout with Pre-Processing
+
+![](cnc-welding-layout-with-pre-processing.png)
 
 ### 👎 BAD • Welding Table/Machine on the Left Side
 
@@ -40,6 +44,8 @@ The dedicated rework-fixing zone is at the far right of the U-shaped work cell, 
 
 ## U-Layout with Post-Processing
 
+![](cnc-welding-layout-with-prost-processing.png)
+
 ### 👎 BAD • Welding Table/Machine on the Left Side
 
 Placing the welding machine/table on the left side of the U-shaped workspace can create excessive movement, disorganized material flow, and disruptions to the workflow. Operators must backtrack, causing bottlenecks during rework, and mixing finished and unfinished parts increases the risk of errors and slow-downs.
@@ -51,6 +57,8 @@ Positioning the welding machine/table on the right side of the U-shaped layout, 
 Rework is done at the right place, close to the final stage, without interfering with loading the robot. This keeps the workspace organized and safe.
 
 ## U-Layout with Pre- and Post-Processing
+
+![](/cnc-welding-layout-with-pre-and-post-processing.png)
 
 Integrating both pre-processing and post-processing tasks in a U-layout is the most challenging configuration to optimize, as it requires coordinating multiple steps before and after the robotic welding operation.
 
@@ -68,7 +76,7 @@ Operators can move to one side for pre-processing tasks and the other side for p
 
 ### Integrated Welding Table with Mobility Solution
 
-An integrated, mobile welding solution can address challenges with a separate welding table and cart. By mounting the welding table and machine onto a wheeled base, manufacturers can eliminate the need for a forklift, facilitate easier movement of the entire setup in the U-Layout, and have a self-contained, mobile welding station to improve productivity.
+An integrated, mobile welding solution can address challenges of a separate welding table and cart. By mounting the welding table and machine onto one wheeled base, manufacturers can eliminate the need for a forklift, facilitate easier movement of the entire setup in the U-Layout, and have a self-contained, mobile welding station to improve productivity.
 
 ### Embedding the U-Layout in Operator Workflow Through Visual Cues
 
