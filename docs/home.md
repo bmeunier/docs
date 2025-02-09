@@ -7,6 +7,6 @@ Je voyage à travers le Canada et les États-Unis avec ma famille et dois pré
 Les housses sur mesure ou semi-mesure sont plus chères, mais plus durables et offrent une meilleure protection. J’ai eu du mal à trouver une adaptée à mon VR à forme arrière courbée, mais j’envisage deux options semi-mesures abordables : la ProTECHtor et la Fonzier, toutes deux offrant une bonne protection contre les intempéries. Je pense aussi investir dans un hygromètre connecté pour surveiller l’humidité à l’intérieur du VR, utile en hiver. Je partagerai mes expériences avec l’installation de la housse et ses performances après son premier hiver canadien.
 
 
-[Read more](/custom-covers-vs-tarps/) • November 24, 2024
+[Read more](custom-covers-vs-tarps/index.md) • November 24, 2024
 
 ---
