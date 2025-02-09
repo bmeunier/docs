@@ -6,7 +6,7 @@ I'm traveling across Canada and the United States with my family and need to pre
 
 Custom or semi-custom covers are more expensive, but more durable and offer better protection. I had trouble finding one that fits my RV's curved rear design, but I'm considering two affordable semi-custom options: the ProTECHtor and the Fonzier, both offering good weather protection. I'm also planning to invest in a connected hygrometer to monitor humidity inside the RV, useful in the winter. I'll share my experiences with the cover installation and its performance after its first Canadian winter.
 
-# The Full Details
+## The Full Details
 
 I'm Benoit Meunier, and this is my wife and son. A year ago, we sold everything and left Montreal to travel. Now, we're exploring Canada and the United States, searching for the perfect place to settle down.
 
@@ -154,7 +154,7 @@ After endless research and several hurdles, I've narrowed down my options. Here 
 
 ### [**ProTECHtor Semi-Custom Fifth Wheel Cover by Empire Covers**](https://www.empirecovers.com/details/706-protechtor-5th-wheel-rv-covers/rv5-c)
 
-![](image-4.jpeg)
+![](image-3.jpeg)
 
 - UV and water-resistant triple-layer materials?
 - Multilayer top, weatherproof? Twice as good.
@@ -162,3 +162,44 @@ After endless research and several hurdles, I've narrowed down my options. Here 
 - Adjustable design for a tight, secure fit? That's what we need.
 
 **$297 USD** available here: ](<https://www.empirecovers.com/details/>](https://www.empirecovers.com/details/)
+
+### Semi-Custom Fonzier 5th Wheel RV Cover Upgraded 6 Layers Heavy Duty from Amazon https://amzn.to/3TXqrbz
+
+![](image-3.jpeg)
+
+- 6-layer UV protection, tear-resistant, breathable and reducing damage.
+- 4 tire covers included, a good idea since we didn't have any.
+- 6 gutter guards to prevent leaks and blockages. Not bad.
+
+$297 USD available here: https://amzn.to/3TXqrbz
+
+Here are some other products that caught our attention, but didn't quite fit our criteria:
+
+- The NEW EASY SETUP 5th Wheel RV Cover by Leader Accessories is a solid option at $269 USD, but the size we need (29'-33') is out of stock. https://www.leaderaccessories.com/collections/5th-wheel-rv-covers/products/5th-wheel-cover-gray-new-easy-setup?variant=31150258815056)](https://www.leaderaccessories.com/collections/5th-wheel-rv-covers/products/5th-wheel-cover-gray-new-easy-setup?variant=31150258815056\
+
+- The Expedition Fifth Wheel Trailer Covers - 402" L x 102" W x 120" from Outdoor Cover Warehouse caught our eye, but at $600 USD, it's expensive. https://www.outdoorcoverwarehouse.com/rv-covers/ws/expedition-rv-covers/Fifth--Wheel--Trailer/29.html
+
+- The Silver Shield 3 from CarCover.ca -- The free shipping is a plus, but at $420 CAD, it gives us pause. https://www.carcover.ca/silver-shield-3l-rv-cover-for-fifth-wheel-trailer-26-to-29-feet-long.html
+
+### Other Products
+
+What we have:
+
+- ThermoPro TP49 Digital Hygrometer: Temperature and humidity monitor, simple, inexpensive, very durable. Available on Amazon https://amzn.to/3ZYDUDF
+
+What we're considering adding to our setup:
+
+- Govee Hygrometer Thermometer: Large easy-to-read LCD, tracks max/min temperatures and humidity, with 2-year data storage -- perfect for monitoring the climate inside the RV. Available on Amazon https://amzn.to/4dEHdTz.
+- DampRid FG100 is a 10.5 oz unscented disposable moisture absorber. It's simple and effective for controlling humidity. Available on Amazon https://amzn.to/4eRwTss.
+
+## Next Steps
+
+We'll make a final decision soon and place the order.
+
+We'll install the cover and make sure it fits properly. We'll share the ease of the installation process.
+
+Once the cover is installed and has protected the RV through its first Canadian winter, we'll share our conclusions. We'll detail what worked well, what didn't, and any unexpected challenges. Whether the cover held up or presented new difficulties, we'll provide an honest report after its first year of use.
+
+## Stay Informed.
+
+If you have any ideas, suggestions, or thoughts, contact us by email at ecrire@benoitmeunier.info.
