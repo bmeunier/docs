@@ -188,6 +188,10 @@
       // coverpage      : '_coverpage.md',
       logo: 'images/bm.svg =200x100',
       loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
+      
+      // ✅ Loads the sidebar, but it’s hidden on page load. ✅ The user can toggle it open when needed.
+      hideSidebar: true,
+      
       // loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
       mergeNavbar: false,
       externalLinkTarget: standalone ? '_top' : (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
