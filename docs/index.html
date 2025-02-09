@@ -131,7 +131,7 @@
     var ToC = false;
 
     // Set navbar to true to permanently override the hiding of the Navbar when displaying as standalone
-    var navbar = false;
+    var navbar = true;
 
     // Set footer to true to permanently show the Footer ('_footer.md)
     var footer = false;
@@ -181,7 +181,7 @@
       name: 'Benoît Meunier',
       // repo           : 'https://github.com/bmeunier/docs/',
       homepage: 'home.md',
-      coverpage      : '_coverpage.md',
+      // coverpage      : '_coverpage.md',
       logo: 'images/bm.svg =200x100',
       loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
       // loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
