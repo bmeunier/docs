@@ -53,6 +53,7 @@
       --base-font-family: "Open Sans", serif;
       --base-line-height: 1.4;
       --base-font-size: 18px;
+      --base-color: #B2B2B2;
       --base-background-color: #1E1F21;
 
       --cover-background-color: var(--base-background-color);
@@ -183,7 +184,7 @@
       coverpage      : '_coverpage.md',
       logo: 'images/bm.svg =200x100',
       loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
-      loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
+      // loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
       mergeNavbar: false,
       externalLinkTarget: standalone ? '_top' : (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
       loadFooter: (getURLParameterByName('footer') || footer || false),
