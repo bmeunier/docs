@@ -1,3 +1,5 @@
+# Benoît Meunier
+
 ## [Housses sur mesure vs bâches : Quelle protection idéale pour votre VR en hiver canadien ?](houses-vs-baches.md "Housses sur mesure vs bâches : Quelle protection idéale pour votre VR en hiver canadien ?")
 
 **November 2024**
