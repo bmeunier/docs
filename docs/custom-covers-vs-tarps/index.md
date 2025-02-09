@@ -1,4 +1,4 @@
-# Custom Covers vs Tarps: What's the Ideal Winter Protection for Your RV in Canada? ## TL;DR
+# Custom Covers vs Tarps: What's the Ideal Winter Protection for Your RV in Canada?
 
 ## TL;DR
 
