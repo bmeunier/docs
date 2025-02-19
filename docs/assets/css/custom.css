@@ -4,10 +4,7 @@ Put your custom CSS in this file.
 ===============================================================================================================================
 */
 
-body[data-page="home.md"] h2 {
-    text-decoration: none;
-    margin-bottom: 1em;
-}
+
 
 
 /* CSS to better visually match Docsify pages within Canvas LMS (uncomment to use) */
