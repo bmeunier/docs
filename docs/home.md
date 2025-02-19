@@ -1,4 +1,3 @@
-<span class="home">
 # Benoît Meunier
 
 ## [Optimizing Robotic Welding Operations with a Flexible U-Layout Work Cell](optimizing-robotic-welding-ulayout/index.md)
@@ -13,4 +12,3 @@ Preparing my RV for a Canadian winter can be a daunting task. Should I invest in
 
 
 [Read more](custom-covers-vs-tarps/index.md) • November 24, 2024
-</span>
