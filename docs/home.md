@@ -1,4 +1,4 @@
-# ![](images/bm.svg) Benoît Meunier
+# Benoît Meunier
 
 ## [Optimizing Robotic Welding Operations with a Flexible U-Layout Work Cell](optimizing-robotic-welding-ulayout/index.md)
 
